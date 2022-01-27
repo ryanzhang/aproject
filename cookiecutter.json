@@ -1,11 +1,11 @@
 {
-  "full_name": "akun",
-  "email": "6awkun@gmail.com",
-  "github_username": "akun",
-  "project_name": "aproject",
-  "repo_name": "aproject",
+  "full_name": "Ryan Zhang",
+  "email": "ryan.zhangcheng@gmail.com",
+  "github_username": "ryanzhang",
+  "project_name": "yourprojectname",
+  "repo_name": "yourprojectname",
   "project_short_description": "A Project Template",
-  "release_date": "2014-04-24",
-  "year": "2014",
+  "release_date": "2022-01-27",
+  "year": "2022",
   "version": "0.0.1"
 }
